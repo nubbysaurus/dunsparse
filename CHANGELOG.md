@@ -1,4 +1,4 @@
-# dunsparse - Changelog
+# dunsparse - CHANGELOG
 
 All notable changes to the dunsparse website project.
 
