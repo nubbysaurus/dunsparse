@@ -18,11 +18,11 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Link href="/formando" className={styles.card}>
+          <Link href="/formando" className={styles.card} as="a">
             <h3>Formando &rarr;</h3>
             <p>Solve the riddle of Formando to unlock your prize! Written in TypeScript.</p>
           </Link>
-          <Link href="/sandbox" className={styles.card}>
+          <Link href="/sandbox" className={styles.card} as="a">
             <h3>Sandbox &rarr;</h3>
             <p>Testing playground.</p>
           </Link>
