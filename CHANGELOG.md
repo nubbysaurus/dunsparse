@@ -4,7 +4,7 @@ All notable changes to the dunsparse website project.
 
 ## [Unreleased]
 
-## [0.1.2] - 19 Nov 2026
+## [0.1.3] - 19 Nov 2026
 
 ### Added
 
@@ -13,6 +13,5 @@ All notable changes to the dunsparse website project.
 
 ### Changed
 
-- v0.1.2 ./frontend/ directory replaces previous directory structure.
-
+- v0.1 ./frontend/ directory replaces previous directory structure.
 
